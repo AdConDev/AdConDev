@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrián Constante
 ========================================================================================================================================
+I'm looking to collaborate on any project that can help me learn more about C/C++, Python, SQL, and electronics. I'm looking for a job as a Software Developer. I'm based in Mazatlán, Sinaloa.
 
 Software Developer
 ------------------
@@ -17,14 +18,15 @@ Software Developer
 ### Socials
                   
                   
-  <p align="left">
-            
-  <a href="https://discord.com/users/S3noR3load#7660" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  
+  <p align="left">          
+  <a href="https://discord.com/users/S3noR3load#7660" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/aconstante" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  </p>
 
-  ### <b>My GitHub Stats</b> 
-  <a
-  href="http://www.github.com/SenoReload"><img src="https://github-readme-stats.vercel.app/api?username=SenoReload&show_icons=true&theme=aura" alt="SenoReload's GitHub stats" /></a><a
+  ### <b>My GitHub Activity</b> 
+  <div align="center"><a
+  href="http://www.github.com/SenoReload"><img src="https://github-readme-stats.vercel.app/api?username=SenoReload&show_icons=true&count_private=true&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&include_all_commits=true" alt="SenoReload's GitHub stats" /></a><a
+  href="https://github.com/SenoReload" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenoReload&langs_count=10&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a><a
   href="http://www.github.com/SenoReload"><img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=SenoReload&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-  href="http://www.github.com/SenoReload"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SenoReload&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/SenoReload" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenoReload&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  src="https://github-readme-streak-stats.herokuapp.com/?user=SenoReload&stroke=ff6767&background=15141b&ring=a277ff&fire=61ffca&currStreakNum=f694ff&currStreakLabel=a277ff&sideNums=82e2ff&sideLabels=61ffca&dates=ffca85&hide_border=false" /></a><a
+  href="http://www.github.com/SenoReload"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SenoReload&bg_color=15141b&color=61ffca&line=a277ff&point=ffca85&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></div>
