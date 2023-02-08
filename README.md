@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrián Constante
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adrián
 ========================================================================================================================================
-I'm looking to collaborate on any project that can help me learn more about C/C++, Python, SQL, and electronics. I'm looking for a job as a Software Developer. I'm based in Mazatlán, Sinaloa.
+I'm looking to collaborate on any project that can help me learn more about C/C++, Python, SQL, and electronics. I'm looking for a job as a Software Developer.
 
 Software Developer
 ------------------
