@@ -33,6 +33,5 @@ Software Developer
   href="http://www.github.com/SenoReload"><img src="https://github-readme-stats.vercel.app/api?username=SenoReload&show_icons=true&count_private=true&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&include_all_commits=true" alt="SenoReload's GitHub stats" /></a><a
   href="https://github.com/SenoReload" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenoReload&langs_count=10&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a><a
   href="http://www.github.com/SenoReload"><img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=SenoReload&stroke=ff6767&background=15141b&ring=a277ff&fire=61ffca&currStreakNum=f694ff&currStreakLabel=a277ff&sideNums=82e2ff&sideLabels=61ffca&dates=ffca85&hide_border=false" /></a><a
-  href="http://www.github.com/SenoReload"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SenoReload&bg_color=15141b&color=61ffca&line=a277ff&point=ffca85&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></div>
+  src="https://github-readme-streak-stats.herokuapp.com/?user=SenoReload&stroke=ff6767&background=15141b&ring=a277ff&fire=61ffca&currStreakNum=f694ff&currStreakLabel=a277ff&sideNums=82e2ff&sideLabels=61ffca&dates=ffca85&hide_border=false" /></a></div>
 
