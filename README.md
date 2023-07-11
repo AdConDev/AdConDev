@@ -7,8 +7,8 @@ Software Developer
 
 -   🌍  I'm based in Mazatlán, Sinaloa
 -   ✉️  You can contact me at [ad\_con.reload@protonmail.ch](mailto:ad_con.reload@protonmail.ch)
-- 👨‍💻 All of my projects are available at [Github](https://github.com/SenoReload)
-- 📄 Know about my experiences in my [resume](https://github.com/SenoReload/my-resume/blob/master/resume.pdf)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/AdCon)
+- 📄 Know about my experiences in my [resume](https://github.com/AdCon/my-resume/blob/master/resume.pdf)
 ### Socials
 <p align="left"><a href="https://discord.com/users/S3noR3load#7660" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/> </a><a href="https://www.linkedin.com/in/aconstante" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"><a></p>
 
@@ -24,8 +24,8 @@ Software Developer
 
 ## <b>My GitHub Activity</b> 
 <div align="center"><a
-  href="http://www.github.com/SenoReload"><img src="https://github-readme-stats.vercel.app/api?username=SenoReload&show_icons=true&count_private=true&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&include_all_commits=false" alt="SenoReload's GitHub stats" /></a><a
-  href="https://github.com/SenoReload" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenoReload&langs_count=10&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a><a
-  href="http://www.github.com/SenoReload"><img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=SenoReload&stroke=ff6767&background=15141b&ring=a277ff&fire=61ffca&currStreakNum=f694ff&currStreakLabel=a277ff&sideNums=82e2ff&sideLabels=61ffca&dates=ffca85&hide_border=false" /></a></div>
+  href="http://www.github.com/AdCon"><img src="https://github-readme-stats.vercel.app/api?username=AdCon&show_icons=true&count_private=true&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&include_all_commits=false" alt="AdCon's GitHub stats" /></a><a
+  href="https://github.com/AdCon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdCon&langs_count=10&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a><a
+  href="http://www.github.com/AdCon"><img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AdCon&stroke=ff6767&background=15141b&ring=a277ff&fire=61ffca&currStreakNum=f694ff&currStreakLabel=a277ff&sideNums=82e2ff&sideLabels=61ffca&dates=ffca85&hide_border=false" /></a></div>
 
