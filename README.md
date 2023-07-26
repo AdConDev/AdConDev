@@ -24,7 +24,7 @@ Software Developer
 
 ## <b>My GitHub Activity</b> 
 <div align="center"><a
-  href="http://www.github.com/AdCons"><img src="https://github-readme-stats.vercel.app/api?username=AdCons&show_icons=true&count_private=true&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&include_all_commits=true" alt="AdCons's GitHub stats" /></a><a
+  href="http://www.github.com/AdCons"><img src="https://github-readme-stats.vercel.app/api?username=AdCons&show_icons=true&count_private=false&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&include_all_commits=false" alt="AdCons's GitHub stats" /></a><a
   href="https://github.com/AdCons" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdCons&langs_count=10&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a><a
   href="http://www.github.com/AdCons"><img
   src="https://github-readme-streak-stats.herokuapp.com/?user=AdCons&stroke=ff6767&background=15141b&ring=a277ff&fire=61ffca&currStreakNum=f694ff&currStreakLabel=a277ff&sideNums=82e2ff&sideLabels=61ffca&dates=ffca85&hide_border=false" /></a></div>
