@@ -1,4 +1,4 @@
-<h1 align="center"> 🤖🐺 Hi, I'm Adrián 🐺🤖 </h1>
+<h1 align="center"> Hi, I'm Adrián </h1>
 <h3 align="center">I'm looking to collaborate on any project that can help me learn more about Data Engineering and IoT Devices.</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=consdotpy&label=Profile%20views&color=0e75b6&style=flat" alt="consdotpy" /></p><p align="center"><a href="https://twitter.com/ConsDotPy" target="blank"><img src="https://img.shields.io/twitter/follow/consdotpy?logo=twitter&style=for-the-badge" alt="ConsDotPy" /></a></p>
@@ -20,8 +20,6 @@
 - 📫 How to reach me by my [Mail](mailto:ad_con.reload@protonmail.ch)
 
 - 📄 Know about my experiences in my [Resume](https://github.com/ConsDotPy/my-resume/blob/master/Adrian%20Constante%20-%20GitHub.pdf)
-
-- 🤖 ***Cyberpunk*** and ***Witcher*** 🐺
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
