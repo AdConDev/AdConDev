@@ -1,16 +1,16 @@
 <h1 align="center"> Hi, I'm Adrián </h1>
 
-- 👨‍💻 All of my project demos are available in [my website](https://adcon.dev).
+- 👨‍💻 All of my project demos are available in [my website](https://resume.adcon.dev).
 
-- 📫 How to reach me by [mail](mailto:ad_con.reload@protonmail.ch)
+- 📫 How to reach me by [mail](mailto:ad_con.reload@proton.me)
 
-- 📄 Know about my experiences in my [resume](https://github.com/ConsDotPy/my-resume/blob/master/Adrian%20Constante%20-%20GitHub.pdf)
+- 📄 Know about my experiences in my [resume](https://github.com/adcondev/my-resume/blob/master/Adrian%20Constante%20-%20GitHub.pdf)
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-    <a href="https://linkedin.com/in/consdotpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="consdotpy" height="30" width="40" /></a>
-    <a href="https://twitter.com/consdotpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="consdotpy" height="30" width="40" /></a>
-    <a href="https://www.github.com/consdotpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="consdotpy" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/adcondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adcondev" height="30" width="40" /></a>
+    <a href="https://twitter.com/adcondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adcondev" height="30" width="40" /></a>
+    <a href="https://www.github.com/adcondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="adcondev" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -28,4 +28,4 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
-<div align="center"> <a href="https://github.com/ConsDotPy" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConsDotPy&langs_count=10&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&locale=en&layout=compact" alt="Top Languages" /> </a> </div>
+<div align="center"> <a href="https://github.com/adcondev" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adcondev&langs_count=10&title_color=a277ff&text_color=61ffca&icon_color=ffca85&bg_color=15141b&hide_border=false&locale=en&layout=compact" alt="Top Languages" /> </a> </div>
