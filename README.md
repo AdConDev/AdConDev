@@ -6,7 +6,6 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
     <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="80" height="40"/></a>
     <a href="https://sqlmodel.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-white-vector.svg" alt="sqlmodel" width="80" height="40"/></a>
-    <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/></a>
 
 <div align="center">
     <a href="https://github.com/adcondev" align="center">
