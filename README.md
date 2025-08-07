@@ -4,7 +4,7 @@
     <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
     <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/></a>
-    <a href="https://sqlmodel.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tiangolo/sqlmodel/master/docs/img/logo.png" alt="sqlmodel" width="40" height="40"/></a>
+    <a href="https://sqlmodel.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-white-vector.svg" alt="sqlmodel" width="40" height="40"/></a>
 </p>
 
 <div align="center">
