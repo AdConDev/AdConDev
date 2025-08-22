@@ -5,7 +5,7 @@
     <a href="https://gin-gonic.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin" width="30" height="50"/></a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
     <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="80" height="40"/></a>
-    <a href="https://sqlmodel.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-white-vector.svg" alt="sqlmodel" width="50" height="70"/></a>
+    <a href="https://sqlmodel.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://sqlmodel.tiangolo.com/img/logo-margin/logo-margin-white-vector.svg" alt="sqlmodel" width="70" height="70"/></a>
 
 <div align="center">
     <a href="https://github.com/adcondev" align="center">
